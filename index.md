@@ -1,4 +1,4 @@
-## Useful Laziness
+# Useful Laziness
 
 1. Consider the end goal and ask yourself - what is the appropriate level of detail here required to accomplish the goal?
 2. Think of work in terms of magnitude - can I accomplish my goal with a quick stab at it? Or do I need something incredibly thorough. And what is the cost of doing something simple to start?
